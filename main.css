@@ -264,7 +264,7 @@ background: linear-gradient(to bottom, #718093, #273c75);
     color: #38A1F3;
 }
 
-.fa-dribbble-square:hover{
+.fa-github:hover{
     color: #ea4c89;
 }
 /*End about*/
@@ -328,7 +328,7 @@ background: linear-gradient(to bottom, #718093, #273c75);
 }
 
 .rounded-corners {
-    border: 2px solid;
+    border: 1px solid;
     border-color: #273c75;
     border-radius: 15px;
 }
