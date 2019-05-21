@@ -262,16 +262,16 @@ background: linear-gradient(to bottom, #718093, #273c75);
     transition: color 650ms;
 }
 
-.fa-facebook-square:hover{
+/* .fa-facebook-square:hover{
     color: #4267b2;
-}
+} */
 
-.fa-twitter-square:hover{
-    color: #38A1F3;
+.fa-linkedin:hover{
+    color: rgb(34, 116, 179);
 }
 
 .fa-github:hover{
-    color: #ea4c89;
+    color: #8a7e83;
 }
 /*End about*/
 
