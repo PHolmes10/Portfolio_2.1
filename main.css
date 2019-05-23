@@ -166,7 +166,7 @@ background: linear-gradient(to bottom, #718093, #273c75);
 }
 
 .menu-toggler:hover .bar{
-    background: linear-gradient(to bottom, #718093, #718093);
+    background: linear-gradient(to bottom, #4e77e9, #4e77e9);
 -webkit-background-clip: content-box;
 -webkit-text-fill-color: transparent;
 }
@@ -207,7 +207,7 @@ background: linear-gradient(to bottom, #718093, #273c75);
 .landing-text h1{
     font-size: 18rem;
     font-family: 'The Historia Demo', sans-serif;
-    background: linear-gradient(to bottom, #273c75, #718093);
+    background: linear-gradient(to bottom, #4e77e9, #718093);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 1rem;
@@ -360,15 +360,15 @@ background: linear-gradient(to bottom, #718093, #273c75);
     margin-top: 2.5rem;
     font-size: 1.5rem;
     text-transform:uppercase;
-    color: #0097e6;
+    color: #95d5f8;
     transition: color 650ms;
 }
 
 .portfolio-description .cta:hover{
-    color: #2f67cd;
+    color: #6997f1;
 }
 
-/*End services*/
+/*End portfolio*/
 
 /*Start timeline*/
 .timeline1 ul{
